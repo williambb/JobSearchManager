@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f62b7eab975871105d4cf5b3f153aff9" sys_domain="global" table="x_34484_job_sear_0_company" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>fce0f9f79714b1105d4cf5b3f153af11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f4e0f9f79714b1105d4cf5b3f153af12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f8e0f9f79714b1105d4cf5b3f153af12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>fce0f9f79714b1105d4cf5b3f153af12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f0e0f9f79714b1105d4cf5b3f153af13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f4e0f9f79714b1105d4cf5b3f153af13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f8e0f9f79714b1105d4cf5b3f153af13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>fce0f9f79714b1105d4cf5b3f153af13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f0e0f9f79714b1105d4cf5b3f153af14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>website</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 18:22:39</sys_created_on>
+            <sys_id>f4e0f9f79714b1105d4cf5b3f153af14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_34484_job_sear_0_company" sys_domain="global" view="Default view">f62b7eab975871105d4cf5b3f153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 18:22:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_34484_job_sear_0_company</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-03 05:08:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f62b7eab975871105d4cf5b3f153aff9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_34484_job_sear_0_company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+            <sys_update_name>sys_ui_section_f62b7eab975871105d4cf5b3f153aff9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-03 05:08:42</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

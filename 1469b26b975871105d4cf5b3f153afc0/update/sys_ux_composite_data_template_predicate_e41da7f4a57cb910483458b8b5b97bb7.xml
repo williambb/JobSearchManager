@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">2c1da7f4d47cb910c33476e780a250bb</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:52</sys_created_on>
+        <sys_id>e41da7f4a57cb910483458b8b5b97bb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_e41da7f4a57cb910483458b8b5b97bb7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:52</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">a01da7f4787cb910fe82c1ebe79142b9</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">c3dd676f101c71107728a5a4bf233b09</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">b6dd276fab1c7110597bc6e83cebd7d4</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-03 08:50:14</sys_created_on>
+        <sys_id>b6dd276f7b1c7110a82651c2fff405cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_b6dd276f7b1c7110a82651c2fff405cb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-03 08:50:14</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

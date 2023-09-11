@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="f93b683497e471105d4cf5b3f153afef" sys_domain="global" table="x_34484_job_sear_0_email" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subject</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-06 15:52:11</sys_created_on>
+            <sys_id>b13ba83497e471105d4cf5b3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_34484_job_sear_0_email" sys_domain="global" view="Default view">f93b683497e471105d4cf5b3f153afef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-06 15:52:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>body</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-06 15:52:11</sys_created_on>
+            <sys_id>353ba83497e471105d4cf5b3f153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_34484_job_sear_0_email" sys_domain="global" view="Default view">f93b683497e471105d4cf5b3f153afef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-06 15:52:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_34484_job_sear_0_email</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-06 15:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f93b683497e471105d4cf5b3f153afef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_34484_job_sear_0_email</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+            <sys_update_name>sys_ui_section_f93b683497e471105d4cf5b3f153afef</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-06 15:52:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</application>
+        <file_path/>
+        <instance_id>bbdbb2a1dbdcb3004d2bac44d49619cc</instance_id>
+        <instance_name>dev76174</instance_name>
+        <name>sys_ui_section_f93b683497e471105d4cf5b3f153afef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="f93b683497e471105d4cf5b3f153afef" sys_domain="global" table="x_34484_job_sear_0_email" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>subject</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-06 15:52:11</sys_created_on><sys_id>b13ba83497e471105d4cf5b3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_34484_job_sear_0_email" sys_domain="global" view="Default view">f93b683497e471105d4cf5b3f153afef</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-06 15:52:11</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>body</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-06 15:52:11</sys_created_on><sys_id>353ba83497e471105d4cf5b3f153af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_34484_job_sear_0_email" sys_domain="global" view="Default view">f93b683497e471105d4cf5b3f153afef</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-06 15:52:11</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_34484_job_sear_0_email</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-06 15:52:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f93b683497e471105d4cf5b3f153afef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_34484_job_sear_0_email</sys_name><sys_overrides/><sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package><sys_policy/><sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope><sys_update_name>sys_ui_section_f93b683497e471105d4cf5b3f153afef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-06 15:52:10</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-927146422</payload_hash>
+        <record_name>Email</record_name>
+        <reverted_from/>
+        <source>5069b26b975871105d4cf5b3f153afc3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-06 15:52:11</sys_created_on>
+        <sys_id>713ba83497e471105d4cf5b3f153af02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189cb8c84b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-06 15:52:11</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f53ba83428e47110798d7feec8870d01</update_guid>
+        <update_guid_history>f53ba83428e47110798d7feec8870d01:-927146422</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-06 15:53:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0a6e9cff37b54fe0b81bd365c37ac6e1</sys_id>
+        <sys_metadata>f93b683497e471105d4cf5b3f153afef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_parent display_value="Email">7b8e3eaf975871105d4cf5b3f153af00</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_scope_delete display_value="">0006957425a748df80016a0794ab5471</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f93b683497e471105d4cf5b3f153afef</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f93b683497e471105d4cf5b3f153afef">713ba83497e471105d4cf5b3f153af02</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-06 15:53:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

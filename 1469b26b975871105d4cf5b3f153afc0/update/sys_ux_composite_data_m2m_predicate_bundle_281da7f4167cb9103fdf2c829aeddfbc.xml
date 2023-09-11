@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">601da7f4a77cb91068461054426d5fc0</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">2c1da7f4d47cb910c33476e780a250bb</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:53</sys_created_on>
+        <sys_id>281da7f4167cb9103fdf2c829aeddfbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_281da7f4167cb9103fdf2c829aeddfbc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:53</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

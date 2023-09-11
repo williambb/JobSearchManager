@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5ff154db9724f1105d4cf5b3f153af63" label="x_34484_job_sear_0_m2m_Peoples_Calls" max_length="40" name="x_34484_job_sear_0_m2m_x_34484_job_x_34484_job" type="collection">
+        <element attributes="encode_utf8=false" label="Calls" max_length="32" name="x_34484_job_sear_0_call" reference="x_34484_job_sear_0_call" type="reference"/>
+        <element attributes="encode_utf8=false" label="Emails" max_length="32" name="x_34484_job_sear_0_email" reference="x_34484_job_sear_0_email" type="reference"/>
+        <element attributes="encode_utf8=false" label="Interviews" max_length="32" name="x_34484_job_sear_0_interview" reference="x_34484_job_sear_0_interview" type="reference"/>
+        <element attributes="encode_utf8=false" label="Peoples" max_length="32" name="x_34484_job_sear_0_people" reference="x_34484_job_sear_0_people" type="reference"/>
+        <index name="index">
+            <element name="x_34484_job_sear_0_call"/>
+        </index>
+        <index name="index2">
+            <element name="x_34484_job_sear_0_email"/>
+        </index>
+        <index name="index3">
+            <element name="x_34484_job_sear_0_interview"/>
+        </index>
+        <index name="index4">
+            <element name="x_34484_job_sear_0_people"/>
+        </index>
+    </element>
+</database>

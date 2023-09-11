@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Approve">601da7f40a7cb9109a62354928f4ccdf</action_payload_definition>
+        <label>Approve Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:53</sys_created_on>
+        <sys_id>ec1da7f4127cb9106ec4322c0521d3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Evam</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_ec1da7f4127cb9106ec4322c0521d3dd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:53</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

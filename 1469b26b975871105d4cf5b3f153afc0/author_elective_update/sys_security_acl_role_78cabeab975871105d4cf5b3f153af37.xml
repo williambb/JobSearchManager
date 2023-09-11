@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:06:56</sys_created_on>
+        <sys_id>78cabeab975871105d4cf5b3f153af37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_34484_job_sear_0_benefit.x_34484_job_sear_0.user</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_security_acl display_value="x_34484_job_sear_0_benefit">30cabeab975871105d4cf5b3f153af35</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78cabeab975871105d4cf5b3f153af37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:06:56</sys_updated_on>
+        <sys_user_role display_value="x_34484_job_sear_0.user" name="x_34484_job_sear_0.user">2869b26b975871105d4cf5b3f153afc7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</application>
+        <file_path/>
+        <instance_id>bbdbb2a1dbdcb3004d2bac44d49619cc</instance_id>
+        <instance_name>dev76174</instance_name>
+        <name>sys_security_acl_role_78cabeab975871105d4cf5b3f153af37</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 05:06:56</sys_created_on><sys_id>78cabeab975871105d4cf5b3f153af37</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_34484_job_sear_0_benefit.x_34484_job_sear_0.user</sys_name><sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package><sys_policy/><sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope><sys_security_acl display_value="x_34484_job_sear_0_benefit">30cabeab975871105d4cf5b3f153af35</sys_security_acl><sys_update_name>sys_security_acl_role_78cabeab975871105d4cf5b3f153af37</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 05:06:56</sys_updated_on><sys_user_role display_value="x_34484_job_sear_0.user" name="x_34484_job_sear_0.user">2869b26b975871105d4cf5b3f153afc7</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1774873085</payload_hash>
+        <record_name>x_34484_job_sear_0_benefit.x_34484_job_sear_0.user</record_name>
+        <reverted_from/>
+        <source>5069b26b975871105d4cf5b3f153afc3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:06:56</sys_created_on>
+        <sys_id>bccabeab975871105d4cf5b3f153af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b9cab3c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:06:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f0cabeab905871103c0525bc52efbe39</update_guid>
+        <update_guid_history>f0cabeab905871103c0525bc52efbe39:-1774873085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_34484_job_sear_0_benefit.x_34484_job_sear_0.user">162dddb097f0b9105d4cf5b3f153afba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 05:46:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2b522ba030544f859db1bb6e5f83e241</sys_id>
+        <sys_metadata>78cabeab975871105d4cf5b3f153af37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_34484_job_sear_0_benefit.x_34484_job_sear_0.user</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_scope_delete display_value="">0006957425a748df80016a0794ab5471</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_78cabeab975871105d4cf5b3f153af37</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_78cabeab975871105d4cf5b3f153af37">bccabeab975871105d4cf5b3f153af39</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 05:46:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

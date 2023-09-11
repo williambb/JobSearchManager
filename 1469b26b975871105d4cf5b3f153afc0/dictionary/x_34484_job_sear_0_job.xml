@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eb454767979871105d4cf5b3f153af8a" label="Job" max_length="40" name="x_34484_job_sear_0_job" type="collection">
+        <element label="Agency" max_length="32" name="agency" reference="x_34484_job_sear_0_company" type="reference"/>
+        <element label="Benefits" max_length="1024" name="benefits" reference="x_34484_job_sear_0_benefit" type="glide_list"/>
+        <element label="Client" max_length="32" name="client" reference="x_34484_job_sear_0_company" type="reference"/>
+        <element label="Date Applied" max_length="40" name="date_applied" type="glide_date"/>
+        <element label="Hiring Manager" max_length="32" name="hiring_manager" reference="x_34484_job_sear_0_people" type="reference"/>
+        <element label="Job Number" max_length="40" name="job_number" type="string"/>
+        <element label="Notes" max_length="2000" name="notes" type="html"/>
+        <element label="Pay Range" max_length="40" name="pay_range" type="string"/>
+        <element label="Resume" max_length="40" name="resume" type="file_attachment"/>
+        <element label="Role Description" max_length="2000" name="role_description" type="html"/>
+        <element label="Skills" max_length="1024" name="skills" reference="x_34484_job_sear_0_skill" type="glide_list"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element display="true" label="Title" max_length="100" name="title" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="W2" sequence="0" value="w2"/>
+                <element inactive_on_update="false" label="Contract to Hire" sequence="1" value="contract_to_hire"/>
+                <element inactive_on_update="false" label="C2C" sequence="2" value="c2c"/>
+                <element inactive_on_update="false" label="Direct Hire" sequence="3" value="direct_hire"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="agency"/>
+        </index>
+        <index name="index2">
+            <element name="client"/>
+        </index>
+        <index name="index3">
+            <element name="hiring_manager"/>
+        </index>
+    </element>
+</database>

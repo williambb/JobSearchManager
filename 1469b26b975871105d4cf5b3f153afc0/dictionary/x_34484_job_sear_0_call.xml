@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="64940b27979871105d4cf5b3f153af26" label="Call" max_length="40" name="x_34484_job_sear_0_call" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Job" max_length="32" name="job" reference="x_34484_job_sear_0_job" type="reference"/>
+        <element label="Summary" max_length="2000" name="summary" type="string"/>
+        <index name="index">
+            <element name="job"/>
+        </index>
+    </element>
+</database>

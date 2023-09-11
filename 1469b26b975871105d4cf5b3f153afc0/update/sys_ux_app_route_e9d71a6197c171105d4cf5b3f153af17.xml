@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Job Search Manager Config">501da7f4977cb9105d4cf5b3f153af8b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Index</name>
+        <optional_parameters>query,views,activityLogs,extraParams,fields,screen,selectedTabIndex,userPrefs</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>index</route_type>
+        <screen_type display_value="Index">a9d796ed978171105d4cf5b3f153afa6</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-03 04:13:34</sys_created_on>
+        <sys_id>e9d71a6197c171105d4cf5b3f153af17</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Index</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_app_route_e9d71a6197c171105d4cf5b3f153af17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-03 04:20:52</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9d71a6197c171105d4cf5b3f153af17"/>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_VALUE_RELAY_ec1da7f4547cb910838e38b146f166ca</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Glide Form 1 SET_VALUE Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"value","fieldType":"string","label":"Value"},{"name":"displayValue","fieldType":"string","label":"Display Value"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:53</sys_created_on>
+        <sys_id>a01da7f4d07cb9108615fb9503044bb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide Form 1 SET_VALUE Relay (Tasks Default)</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_event_a01da7f4d07cb9108615fb9503044bb6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:53</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=a01da7f4d07cb9108615fb9503044bb6"/>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>test template</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 11:40:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a52e749797e4f1105d4cf5b3f153afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_template_a52e749797e4f1105d4cf5b3f153afca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 11:40:14</sys_updated_on>
+        <table>problem</table>
+        <template>assigned_to=73ab3f173b331300ad3cc9bb34efc4df^category=software^cmdb_ci=27d32778c0a8000b00db970eeaa60f16^description=Unable to send or receive emails.Looks like issue is with the email server.^fix_notes=&lt;p&gt;l;kjhgfdsa&lt;/p&gt;^impact=3^short_description=Unable to send or receive emails.^subcategory=email^urgency=3^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

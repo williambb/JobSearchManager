@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">b6dd276f011c7110a22c3ffb494a88dd</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">fadd276f0b1c71108abac6e1cafb44db</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-03 08:50:15</sys_created_on>
+        <sys_id>f6dd276f3c1c71108eb669cf307215d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_f6dd276f3c1c71108eb669cf307215d9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-03 08:50:15</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "task",
+    "sysId": "ae96d73de865211076da10591ad2871d",
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputSysId": "ae96d73de865211076da10591ad2871d",
+        "inputTable": "task"
+    }
+}</macroponent_config>
+        <screen display_value="Default">a5d71a6197c171105d4cf5b3f153af1e</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-03 04:13:35</sys_created_on>
+        <sys_id>25d71a6197c171105d4cf5b3f153af22</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_25d71a6197c171105d4cf5b3f153af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-03 20:28:46</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

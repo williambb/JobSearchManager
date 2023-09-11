@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fbfcb26f975871105d4cf5b3f153af79" label="People" max_length="40" name="x_34484_job_sear_0_people" type="collection">
+        <element label="Company" max_length="32" name="company" reference="x_34484_job_sear_0_company" type="reference"/>
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Title" max_length="100" name="title" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agency" sequence="10" value="agency"/>
+                <element inactive_on_update="false" label="Client" sequence="20" value="client"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="company"/>
+        </index>
+    </element>
+</database>

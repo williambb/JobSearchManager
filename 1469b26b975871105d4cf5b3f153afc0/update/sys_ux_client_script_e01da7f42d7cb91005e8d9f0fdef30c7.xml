@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">6c1da7f4d47cb9106ef3c803309f4ccc</macroponent>
+        <name>Show Delete Comment Alert</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "deleteCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: "Comment deleted.",
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+        <sys_id>e01da7f42d7cb91005e8d9f0fdef30c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Delete Comment Alert</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_client_script_e01da7f42d7cb91005e8d9f0fdef30c7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

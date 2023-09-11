@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7f0bf2eb975871105d4cf5b3f153af59" label="Company" max_length="40" name="x_34484_job_sear_0_company" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agency" sequence="0" value="agency"/>
+                <element inactive_on_update="false" label="Client" sequence="1" value="client"/>
+            </choice>
+        </element>
+        <element label="Website" max_length="100" name="website" type="url"/>
+    </element>
+</database>

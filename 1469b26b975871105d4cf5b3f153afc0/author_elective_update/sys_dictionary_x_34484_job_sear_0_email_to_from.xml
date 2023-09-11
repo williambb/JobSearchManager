@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="to_from" table="x_34484_job_sear_0_email">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>To/From</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>to_from</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_34484_job_sear_0_email</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_34484_job_sear_0_people">x_34484_job_sear_0_people</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:48:55</sys_created_on>
+        <sys_id>7f540727979871105d4cf5b3f153af61</sys_id>
+        <sys_name>To/From</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_dictionary_x_34484_job_sear_0_email_to_from</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:48:56</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</application>
+        <file_path/>
+        <instance_id>bbdbb2a1dbdcb3004d2bac44d49619cc</instance_id>
+        <instance_name>dev76174</instance_name>
+        <name>sys_dictionary_x_34484_job_sear_0_email_to_from</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="to_from" table="x_34484_job_sear_0_email"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>To/From</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>to_from</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_34484_job_sear_0_email</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="x_34484_job_sear_0_people">x_34484_job_sear_0_people</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 05:48:55</sys_created_on><sys_id>7f540727979871105d4cf5b3f153af61</sys_id><sys_name>To/From</sys_name><sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package><sys_policy/><sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope><sys_update_name>sys_dictionary_x_34484_job_sear_0_email_to_from</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 05:48:56</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1313753227</payload_hash>
+        <record_name>Email.To/From</record_name>
+        <reverted_from/>
+        <source>5069b26b975871105d4cf5b3f153afc3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:48:56</sys_created_on>
+        <sys_id>c4640727979871105d4cf5b3f153afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b9f129090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:48:56</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>cc640727fd9871103f4fd0ddc23f8fb8</update_guid>
+        <update_guid_history>cc640727fd9871103f4fd0ddc23f8fb8:-1313753227,886407275998711097a7d4ca827a5c93:-649745408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 10:45:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>3f805859c6a64098967a7301cd0da664</sys_id>
+        <sys_metadata>7f540727979871105d4cf5b3f153af61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To/From</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_parent display_value="Email">7b8e3eaf975871105d4cf5b3f153af00</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_scope_delete display_value="">0006957425a748df80016a0794ab5471</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_34484_job_sear_0_email_to_from</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_34484_job_sear_0_email_to_from">c4640727979871105d4cf5b3f153afb9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 10:45:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

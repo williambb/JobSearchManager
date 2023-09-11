@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="db6ab6ab975871105d4cf5b3f153aff4" label="Skill" max_length="40" name="x_34484_job_sear_0_skill" type="collection">
+        <element display="true" label="Skill" max_length="40" name="skill" type="string"/>
+    </element>
+</database>

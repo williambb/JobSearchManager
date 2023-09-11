@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_34484_job_sear_0_skill</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:05:32</sys_created_on>
+        <sys_id>d47a3aab975871105d4cf5b3f153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_34484_job_sear_0_skill</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_security_acl_d47a3aab975871105d4cf5b3f153af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:05:32</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</application>
+        <file_path/>
+        <instance_id>bbdbb2a1dbdcb3004d2bac44d49619cc</instance_id>
+        <instance_name>dev76174</instance_name>
+        <name>sys_security_acl_d47a3aab975871105d4cf5b3f153af18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_34484_job_sear_0_skill</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 05:05:32</sys_created_on><sys_id>d47a3aab975871105d4cf5b3f153af18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_34484_job_sear_0_skill</sys_name><sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package><sys_policy/><sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope><sys_update_name>sys_security_acl_d47a3aab975871105d4cf5b3f153af18</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 05:05:32</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-670011738</payload_hash>
+        <record_name>x_34484_job_sear_0_skill</record_name>
+        <reverted_from/>
+        <source>5069b26b975871105d4cf5b3f153afc3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 05:05:32</sys_created_on>
+        <sys_id>d87a3aab975871105d4cf5b3f153af1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b9c96b390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 05:05:32</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>107a3aabba587110367b67a98e08ef1a</update_guid>
+        <update_guid_history>107a3aabba587110367b67a98e08ef1a:-670011738</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-19 05:51:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>696c0ee73b4243b79a012517066be0d9</sys_id>
+        <sys_metadata>d47a3aab975871105d4cf5b3f153af18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_34484_job_sear_0_skill</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_parent display_value="x_34484_job_sear_0_skill">536ab6ab975871105d4cf5b3f153aff7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_scope_delete display_value="">0006957425a748df80016a0794ab5471</sys_scope_delete>
+        <sys_update_name>sys_security_acl_d47a3aab975871105d4cf5b3f153af18</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_d47a3aab975871105d4cf5b3f153af18">d87a3aab975871105d4cf5b3f153af1a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-19 05:51:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

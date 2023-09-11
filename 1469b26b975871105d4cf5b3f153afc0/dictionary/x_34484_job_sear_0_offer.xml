@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="84890f6b979871105d4cf5b3f153af4d" label="Offer" max_length="40" name="x_34484_job_sear_0_offer" type="collection">
+        <element label="Benefits" max_length="1024" name="benefits" reference="x_34484_job_sear_0_benefit" type="glide_list"/>
+        <element label="Company" max_length="32" name="company" reference="x_34484_job_sear_0_company" type="reference"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element choice="1" label="Decision" max_length="40" name="decision" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" sequence="0" value="accepted"/>
+                <element inactive_on_update="false" label="Declined" sequence="1" value="declined"/>
+                <element inactive_on_update="false" label="Countered" sequence="2" value="countered"/>
+            </choice>
+        </element>
+        <element label="Job" max_length="32" name="job" reference="x_34484_job_sear_0_job" type="reference"/>
+        <element label="Notes" max_length="2000" name="notes" type="string"/>
+        <element label="Pay Rate" max_length="40" name="pay_rate" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="W2" sequence="0" value="w2"/>
+                <element inactive_on_update="false" label="C2C" sequence="1" value="c2c"/>
+                <element inactive_on_update="false" label="Contract to Hire" sequence="2" value="contract_to_hire"/>
+                <element inactive_on_update="false" label="Direct Hire" sequence="3" value="direct_hire"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="company"/>
+        </index>
+        <index name="index2">
+            <element name="job"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">e81da7f4337cb91012e24245ecd39fcb</macroponent>
+        <name>handle_facet_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: props.searchFilters,
+			facetFilters: event.payload.selectedFilters,
+			disableSpellCheck: props.disableSpellCheck
+		});
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+        <sys_id>a01da7f4767cb910da197c82d5b815c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_facet_click</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_ux_client_script_a01da7f4767cb910da197c82d5b815c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

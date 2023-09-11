@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a81da7f4f57cb910f76dd7549e5259d8" sys_domain="global" table="sys_user" version="3" view="2_custom_portal_settings_x_34484_job_sear_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+            <sys_id>2c1da7f4627cb910543f680fd0bf22d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a41da7f4467cb910ade7ab4c4551c5d9">a81da7f4f57cb910f76dd7549e5259d8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+            <sys_id>e41da7f4377cb910755e9bbbcd97b3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a41da7f4467cb910ade7ab4c4551c5d9">a81da7f4f57cb910f76dd7549e5259d8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+            <sys_id>6c1da7f4dc7cb910a7a5d289707a5bd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a41da7f4467cb910ade7ab4c4551c5d9">a81da7f4f57cb910f76dd7549e5259d8</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-19 16:14:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a81da7f4f57cb910f76dd7549e5259d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+            <sys_update_name>sys_ui_section_a81da7f4f57cb910f76dd7549e5259d8</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-19 16:14:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_settings_x_34484_job_sear_0" name="2_custom_portal_settings_x_34484_job_sear_0">a41da7f4467cb910ade7ab4c4551c5d9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

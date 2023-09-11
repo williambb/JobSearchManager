@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_34484_job_sear_0_job" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>dd4693d99770b1105d4cf5b3f153af62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_applied</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>554693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>job_number</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>d54693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>agency</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>594693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>d94693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pay_range</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>5d4693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hiring_manager</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>dd4693d99770b1105d4cf5b3f153af63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_34484_job_sear_0_job" element="NULL" name="x_34484_job_sear_0_job" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d4693d99770b1105d4cf5b3f153af60</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_id>514693d99770b1105d4cf5b3f153af64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_34484_job_sear_0_job</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 03:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d4693d99770b1105d4cf5b3f153af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_34484_job_sear_0_job</sys_name>
+            <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+            <sys_update_name>sys_ui_list_x_34484_job_sear_0_job_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 03:52:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
