@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Test RP">d463e352978131105d4cf5b3f153afe5</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 17:42:29</sys_created_on>
+        <sys_id>ce246792978131105d4cf5b3f153afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Test RP</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sc_cat_item_category_ce246792978131105d4cf5b3f153afe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 17:42:29</sys_updated_on>
+    </sc_cat_item_category>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</application>
+        <file_path/>
+        <instance_id>16e5d3d61b550e90a43dcb7b234bcb22</instance_id>
+        <instance_name>dev253912</instance_name>
+        <name>sc_cat_item_category_ce246792978131105d4cf5b3f153afe6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Test RP">d463e352978131105d4cf5b3f153afe5</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 17:42:29</sys_created_on>
+        <sys_id>ce246792978131105d4cf5b3f153afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Test RP</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sc_cat_item_category_ce246792978131105d4cf5b3f153afe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 17:42:29</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>]]></payload>
+        <payload_hash>-1712003445</payload_hash>
+        <record_name>Office.Test RP</record_name>
+        <reverted_from/>
+        <source>fc23093283a31210deea5fd6feaad3d2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-09 18:15:55</sys_created_on>
+        <sys_id>4b43057283a31210deea5fd6feaad3cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194ebecd8760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-09 18:15:55</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0b43057241a31210d7cd155afa67dfcb</update_guid>
+        <update_guid_history>0b43057241a31210d7cd155afa67dfcb:-1712003445</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Office.Test RP">bd0f009283986650deea5fd6feaad34a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-17 07:57:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3efa58bc32d34f2c853a2742c67b9284</sys_id>
+        <sys_metadata>ce246792978131105d4cf5b3f153afe6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Test RP</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_scope_delete display_value="">0006957425a748df80016a0794ab5471</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ce246792978131105d4cf5b3f153afe6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ce246792978131105d4cf5b3f153afe6">4b43057283a31210deea5fd6feaad3cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-17 07:57:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

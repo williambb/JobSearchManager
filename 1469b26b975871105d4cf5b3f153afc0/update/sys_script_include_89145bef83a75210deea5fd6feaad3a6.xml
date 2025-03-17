@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_34484_job_sear_0.People</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>Used to retrieve and update people profiles</description>
+        <mobile_callable>false</mobile_callable>
+        <name>People</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var People = Class.create();
+People.prototype = {
+    initialize: function() {
+    },
+
+	getEmail: function (person) {
+
+		try {
+			var grPerson = new GlideRecord('x_34484_job_sear_0_people');
+			if (grPerson.get(person)) {
+				return grPerson.email;
+			}
+			return; // return nothing if we don't get a match on person in the people table
+		}
+		catch {
+			gs.error('script person.getEmail threw exception ' + ex.message);
+			return; // return nothing if we experience an exception, the admin will need to check the log
+		}
+
+
+	},
+
+	updateEmail: function (record) {
+
+		var person = JSON.parse(record);
+
+		try{
+			var grPerson = new GlideRecord('x_34484_job_sear_0_people');
+			if (grPerson.get(person.sysId)) {
+				grPerson.email = person.email;
+				grPerson.update();
+				return true; // true means the email was updated
+			}			
+		}
+		catch(ex) {
+			gs.error('script person.updateEmail threw exception ' + ex.message);
+			return false;
+		}
+		return false; // return false if we don't get a match on person in the people table
+
+	},
+
+    type: 'People'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 14:28:56</sys_created_on>
+        <sys_id>89145bef83a75210deea5fd6feaad3a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>People</sys_name>
+        <sys_package display_value="Job Search Manager" source="x_34484_job_sear_0">1469b26b975871105d4cf5b3f153afc0</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Job Search Manager">1469b26b975871105d4cf5b3f153afc0</sys_scope>
+        <sys_update_name>sys_script_include_89145bef83a75210deea5fd6feaad3a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 14:28:56</sys_updated_on>
+    </sys_script_include>
+</record_update>
